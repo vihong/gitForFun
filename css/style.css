@@ -34,4 +34,9 @@ input {
   font-style: italic;
   color: white;
 }
+
+input[type=text] {
+  color: black;
+  font-style: normal;
+}
 /*# sourceMappingURL=style.css.map */
